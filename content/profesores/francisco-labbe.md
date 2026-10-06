@@ -22,4 +22,17 @@ sections:
       avatar:
         size: medium
         shape: circle
+  # Publicaciones: content/publications/ con `authors: [francisco-labbe]`
+  - block: collection
+    id: publicaciones
+    content:
+      title: Publicaciones
+      filters:
+        folders:
+          - publications
+        author: francisco-labbe
+      count: 0
+      order: desc
+    design:
+      view: citation
 ---
