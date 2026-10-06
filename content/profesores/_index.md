@@ -1,17 +1,14 @@
 ---
-# Leave the homepage title empty to use the site title
-title: ''
-summary: ''
-date: 2022-10-24
+title: Profesores
+date: 2026-10-06
 type: landing
 
-# Directorio de profesores: muestra los perfiles de data/authors/ con `user_groups: [Profesores]`.
-# Cada tarjeta enlaza a la página del profesor en content/profesores/<slug>.md
+# Muestra a todos los perfiles de data/authors/ que tengan `user_groups: [Profesores]`
 sections:
   - block: team-showcase
     content:
       title: Profesores
-      subtitle: Universidad San Sebastián
+      subtitle: ''
       text: ''
       user_groups:
         - Profesores
