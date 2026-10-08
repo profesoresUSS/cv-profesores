@@ -1,7 +1,7 @@
 ---
-title: "Título del libro"
+title: "FORMULACIÓN Y EVALUACIÓN DE PROYECTOS"
 authors: ["francisco-labbe"]
-date: "2020-01-01"
+date: "2026-01-01"
 publication_types: ["book"]
 publication:
   name: "Nombre de la colección (opcional)"
